@@ -1,5 +1,7 @@
 # xhs_one_spider
-> 🔥 小红书数据采集神器 - 搜索笔记采集、搜索评论采集、博主笔记采集、链接转换，GUI界面开箱即用。商业软件，提供日卡试用。
+> 🔥 小红书数据采集神器 - ✅搜索笔记采集 ✅搜索评论采集 ✅博主笔记采集 ✅链接转换 | GUI界面开箱即用 | 提供日卡试用
+>
+> [点这里即刻下载⬇️最新版](https://github.com/mashukui/xhs_one_spider/releases/)
 
 <p align="center">
 <a href="README.md">简体中文</a> | <a href="README.en.md">English</a>
@@ -191,9 +193,6 @@ def get_logger(self):
 
 开通入口：https://kjyjf.xetlk.com/s/1dk7Wy
 
-**方式三：手动开通，付费后加v（493882434）对接**
-<img width="2324" height="604" alt="收款码v5" src="https://github.com/user-attachments/assets/a44fa968-e5bb-4668-922a-1d9ca94d358e" />
-
 ## 4.2 一机一码
 为防止软件被恶意转卖，采用一机一码机制，一个卡密只能在一台电脑运行、不可多电脑运行。
 
@@ -204,5 +203,5 @@ def get_logger(self):
 软件由本人独立原创开发，长期维护更新，提供稳定运行。
 
 # 五、软件获取
-公众号"**老男孩的平凡之路**"，后台回复"**爬小红书聚合软件**"获取最新版软件安装包。
+公众号"**老男孩的平凡之路**"，后台回复"**爬小红书聚合软件**"获取最新版软件安装包。[点这里直接下载](https://github.com/mashukui/xhs_one_spider/releases/)
 <img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/c5d7b4b4-b507-4734-b004-63b99abe370a" />
